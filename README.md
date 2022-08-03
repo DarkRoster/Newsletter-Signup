@@ -1,6 +1,4 @@
 # Newsletter Signup
-This app using node.js on server side. For 
-
 
 This application uses node.js on the server side. In addition, you need to place the information you will obtain from your MailChimp service account in the places specified with a comment line (See => app.js)
 .At the same time, the heroku service is used. You can review the documentation I will leave below on this subject.
