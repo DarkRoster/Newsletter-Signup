@@ -1,4 +1,4 @@
-# newsletter-signup
+# Newsletter Signup
 This app using node.js on server side. For 
 
 
