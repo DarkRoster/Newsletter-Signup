@@ -10,4 +10,3 @@ Quick Start for MailChimp: https://mailchimp.com/developer/marketing/guides/quic
 
 Documentation for Heroku: https://devcenter.heroku.com/articles/getting-started-with-nodejs
 
-Referenced from Angela Yu's udemy course.
